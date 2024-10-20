@@ -1,7 +1,7 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('pizza.jpg') ;
+    background: url('pizza.png') ;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
